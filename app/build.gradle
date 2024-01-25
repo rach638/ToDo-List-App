@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.example.rach638.to_dolist"
+        applicationId "com.example.shivansh.to_dolist"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
